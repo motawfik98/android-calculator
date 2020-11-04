@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.motawfik.calculator;
 
 import org.junit.Test;
 

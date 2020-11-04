@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.motawfik.calculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,10 +6,10 @@ import android.os.Bundle;
 import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 
-import com.example.calculator.databinding.ActivityMainBinding;
-import com.example.calculator.listeners.ClearListener;
-import com.example.calculator.listeners.NumberListener;
-import com.example.calculator.listeners.OperatorListener;
+import com.motawfik.calculator.databinding.ActivityMainBinding;
+import com.motawfik.calculator.listeners.ClearListener;
+import com.motawfik.calculator.listeners.NumberListener;
+import com.motawfik.calculator.listeners.OperatorListener;
 
 public class MainActivity extends AppCompatActivity {
 

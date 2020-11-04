@@ -1,8 +1,8 @@
-package com.example.calculator.listeners;
+package com.motawfik.calculator.listeners;
 
 import android.view.View;
 
-import com.example.calculator.R;
+import com.motawfik.calculator.R;
 
 public class ClearListener implements View.OnClickListener {
     private NumberListener numberListener;

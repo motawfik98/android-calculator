@@ -1,9 +1,9 @@
-package com.example.calculator.listeners;
+package com.motawfik.calculator.listeners;
 
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.calculator.R;
+import com.motawfik.calculator.R;
 
 import java.util.Locale;
 
